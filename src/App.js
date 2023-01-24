@@ -127,7 +127,7 @@ function App() {
                 業者に頼むと高くなりがちだが、個人の業者に頼むことで安く抑えることができる。
                 ですがこのサービスを作るにはケガや家具家電の故障したときどうするかなど様々な問題点があるので手が付けれていません
               </p>
-              
+
 
 
               <li>チャットアプリ</li>
@@ -181,7 +181,7 @@ function App() {
               <div className="flex-grow-1">
                 <h3 className="mb-0">徳島紹介</h3>
                 <div className="subheading mb-3">阿波踊り</div>
-                <img className="w-50 p-3" src={awa} />
+                <img className="w-50 p-3" src={awa} alt="" />
                 <p>
                   徳島市の阿波踊りは毎年8月12日から15日まで4日間の開催となり、
                   人出は約130万人、踊り子は約10万人が繰り出します。
@@ -193,7 +193,7 @@ function App() {
             <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div className="flex-grow-1">
                 <div className="subheading mb-3">スダチ</div>
-                <img className="w-50 p-3" src={sudachi} />
+                <img className="w-50 p-3" src={sudachi} alt=""/>
                 <p>
                   香りがよく上品な味がするそうです。魚などにかけて使うことが多いです。
                   僕はゆず派です。
@@ -203,7 +203,7 @@ function App() {
             <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div className="flex-grow-1">
                 <div className="subheading mb-3">徳島ラーメン</div>
-                <img className="w-50 p-3" src={ramen} />
+                <img className="w-50 p-3" src={ramen} alt=""/>
                 <p>
                   味は豚骨醤油ですが、地域によって変わったり店によって変わったりするので
                   県民は自分好みの店を見つけています。
@@ -213,7 +213,7 @@ function App() {
             <div className="d-flex flex-column flex-md-row justify-content-between">
               <div className="flex-grow-1">
                 <div className="subheading mb-3">旧吉野川</div>
-                <img className="w-50 p-3" src={fishing} />
+                <img className="w-50 p-3" src={fishing} alt=""/>
                 <p>
                   これは、旧吉野川で釣った時の写真です。
                   日本のメジャーなバス釣りスポットで全国から有名なバスプロが来たり取材や大きい大会が開かれています。
