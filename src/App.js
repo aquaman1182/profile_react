@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import awa from "./assets/img/cul_kouenjiawaodori_2019_1.jpg";
 import sudachi from "./assets/img/images.jpg";
